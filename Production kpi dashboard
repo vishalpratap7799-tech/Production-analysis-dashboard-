@@ -1,0 +1,46 @@
+# 🚀 Production Analysis Dashboard
+
+📊 This project analyzes production data using **Power BI, Excel, and SQL**.  
+The dashboard helps in monitoring **daily production, downtime, and rejection trends** for better decision making.  
+
+---
+
+## 🔹 Features
+- ✅ Daily production tracking  
+- ✅ Rejection analysis (Bus & Truck switches)  
+- ✅ Downtime monitoring  
+- ✅ KPIs & interactive visuals  
+
+---
+
+## 🔹 Tools Used
+- Microsoft Excel (Data Cleaning)  
+- SQL (Data Querying)  
+- Power BI (Dashboard & Visualization)  
+
+---
+
+## 🔹 Project Files
+- 📂 [ProductionDashboard.pbix](ProductionDashboard.pbix) → Power BI File  
+- 📂 [ProductionData.xlsx](ProductionData.xlsx) → Sample Data  
+
+---
+
+## 🔹 Dashboard Preview
+👉 *(Optional: Yaha ek screenshot add kar sakte ho apne dashboard ka, taaki recruiter ko pehle hi idea mil jaye)*  
+
+---
+
+## 🔹 How to Use
+1. Download the dataset and `.pbix` file  
+2. Open in Power BI Desktop  
+3. Explore interactive dashboard  
+
+---
+
+## 🔹 Author
+👤 **Vishal Kumar**  
+📧 Email: *[apna email likho]*  
+🔗 LinkedIn: *[apna LinkedIn link daalo]*  
+
+---
